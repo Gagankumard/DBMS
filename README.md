@@ -1,2 +1,2 @@
 # DBMS
-<h2>vehicle Insurance registration</h2>
+<h2>Vehicle Insurance Registration</h2>
